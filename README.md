@@ -1,5 +1,35 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Scalable Java-based applications<br><br>Academic and real-world software development projects<br><br>Strengthening backend logic and system design skills<br><br>👯 I’m looking to collaborate on<br><br>High-impact software engineering projects<br><br>Full-stack web applications<br><br>Innovative tech solutions that solve real-world problems<br><br>🤝 I’m looking for help with<br><br>Advanced system architecture<br><br>Clean code practices & design patterns<br><br>Performance optimization and scalable systems<br><br>🌱 I’m currently learning<br><br>Advanced Object-Oriented Programming in Java<br><br>Backend development & API design<br><br>AI fundamentals and intelligent systems<br><br>Industry-standard Git workflows<br><br>💬 Ask me about<br><br>Java & OOP principles<br><br>Software project structuring<br><br>Building academic projects with production-level thinking<br><br>Tech-for-impact initiatives<br><br>⚡ Fun fact<br><br>I approach every project like it’s going into production.
+# Hi there 👋 I'm Amanda Msutu
+## 💫 About Me:
+
+🔭 **I’m currently working on**
+- Scalable Java-based applications
+- Academic and real-world software development projects
+- Strengthening backend logic and system design skills
+
+👯 **I’m looking to collaborate on**
+- High-impact software engineering projects
+- Full-stack web applications
+- Innovative tech solutions that solve real-world problems
+
+🤝 **I’m looking for help with**
+- Advanced system architecture
+- Clean code practices & design patterns
+- Performance optimization and scalable systems
+
+🌱 **I’m currently learning**
+- Advanced Object-Oriented Programming in Java
+- Backend development & API design
+- AI fundamentals and intelligent systems
+- Industry-standard Git workflows
+
+💬 **Ask me about**
+- Java & OOP principles
+- Software project structuring
+- Building academic projects with production-level thinking
+- Tech-for-impact initiatives
+
+⚡ **Fun fact**
+I approach every project like it’s going into production.
 
 
 ## 🌐 Socials:
@@ -18,8 +48,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=learningwithshaun&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Amanda Msutu) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
