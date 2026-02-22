@@ -1,5 +1,6 @@
-# Hi there 👋 I'm Amanda Msutu
 ## 💫 About Me:
+
+🎓 **South African ICT Application Development (3rd Year) Student**
 
 🔭 **I’m currently working on**
 - Scalable Java-based applications
