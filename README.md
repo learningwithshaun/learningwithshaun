@@ -23,12 +23,6 @@
 - AI fundamentals and intelligent systems
 - Industry-standard Git workflows
 
-💬 **Ask me about**
-- Java & OOP principles
-- Software project structuring
-- Building academic projects with production-level thinking
-- Tech-for-impact initiatives
-
 ⚡ **Fun fact**
 I approach every project like it’s going into production.
 
