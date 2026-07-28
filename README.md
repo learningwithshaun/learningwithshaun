@@ -20,7 +20,6 @@
 
 I'm a passionate Full-Stack Developer and a third-year ICT Application Development student at Cape Peninsula University of Technology (CPUT). I enjoy building scalable web applications, developing secure backend systems, and creating user-friendly interfaces that solve real-world problems.
 
-💻 **Tech Stack:** Java • Spring Boot • PHP • Laravel • JavaScript • Vue.js • HTML • CSS • SQL • Git
 
 🚀 **What I'm working on:**
 
