@@ -16,15 +16,29 @@
 
 ---
 
-### 💫 About Me
+### 👋 Hi there, I'm Amanda
 
-🎓 South African **ICT Application Development** student, 3rd year — backend & full-stack focus
-🔭 Currently building **[KeepITBlue](#)**, an ocean conservation nonprofit platform, and **[PavelPayments](#)**, a micropayments app on Interledger Open Payments
-🌊 Also tinkering with **Depth Charge** — an ocean-conservation game exploring Web Monetization APIs in React
-👯 Looking to collaborate on full-stack builds, backend architecture, and projects that solve real problems — bonus points if there's an ocean-conservation or fintech angle
-🤝 Looking for input on system architecture, clean code / design patterns, and performance at scale
-🌱 Currently deep in advanced OOP, API design, Git workflows that don't fall apart under pressure, and just enough AI to be dangerous
-⚡ Fun fact: I once resurrected a portable Node.js install on a locked-down Windows machine using nothing but a PowerShell profile and pure stubbornness
+I'm a passionate Full-Stack Developer and a third-year ICT Application Development student at Cape Peninsula University of Technology (CPUT). I enjoy building scalable web applications, developing secure backend systems, and creating user-friendly interfaces that solve real-world problems.
+
+💻 **Tech Stack:** Java • Spring Boot • PHP • Laravel • JavaScript • Vue.js • HTML • CSS • SQL • Git
+
+🚀 **What I'm working on:**
+
+* Building full-stack web applications
+* Strengthening my backend development skills
+* Exploring cloud technologies, AI, and software architecture
+* Contributing to open-source projects
+
+📌 **Projects I'm proud of:**
+
+* **DailyWin** – A full-stack task management application designed to improve productivity.
+* **KasiPay** – A digital payment platform built during a hackathon.
+* **PavelPayments** – A micropayments UI on Interledger Open Payments.
+* **LearnHub** – A desktop application that helps university students discover study groups.
+
+🌱 I'm always learning, building, and looking for opportunities to collaborate on impactful software projects.
+
+📫 Feel free to explore my repositories and connect with me!
 
 ---
 
