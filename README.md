@@ -8,16 +8,9 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amandatheecoder&label=Profile%20Views&color=0077B5&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/status-shipping%20code-brightgreen" />
-  <img src="https://img.shields.io/badge/based%20in-South%20Africa-FFB612" />
-</p>
-
 ---
 
 I'm a passionate Full-Stack Developer and a third-year ICT Application Development student at Cape Peninsula University of Technology (CPUT). I enjoy building scalable web applications, developing secure backend systems, and creating user-friendly interfaces that solve real-world problems.
-
 
 🚀 **What I'm working on:**
 
