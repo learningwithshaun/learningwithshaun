@@ -1,15 +1,15 @@
+<p align="center">
+  <img src="./assets/pacman-banner.svg" alt="amandatheecoder — Pac-Man banner" width="100%" />
+</p>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Amanda+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;ICT+Application+Development+%7C+3rd+Year;I+ship+it+like+it's+going+to+production." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFCC00&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Amanda+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;ICT+Application+Development+%7C+3rd+Year;I+ship+it+like+it's+going+to+production." alt="Typing SVG" />
 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C7B7&height=180&section=header&text=learningwithshaun&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=learningwithshaun&label=Profile%20Views&color=0077B5&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=amandatheecoder&label=Profile%20Views&color=0077B5&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/status-shipping%20code-brightgreen" />
   <img src="https://img.shields.io/badge/based%20in-South%20Africa-FFB612" />
 </p>
@@ -66,16 +66,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=learningwithshaun&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learningwithshaun&theme=dark&hide_border=false&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amandatheecoder&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandatheecoder&theme=dark&hide_border=false&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=learningwithshaun&theme=dark&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=amandatheecoder&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=learningwithshaun&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amandatheecoder&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -83,7 +83,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/learningwithshaun/learningwithshaun/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+  <img src="https://raw.githubusercontent.com/amandatheecoder/amandatheecoder/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </p>
 
 > ℹ️ This animated snake needs a one-time GitHub Actions setup on your profile repo — see the [snake action README](https://github.com/Platane/snk) for the ~5-line workflow file. Once added, it auto-generates on a schedule.
