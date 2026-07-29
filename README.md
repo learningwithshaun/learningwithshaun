@@ -70,16 +70,15 @@ I'm a passionate Full-Stack Developer and a third-year ICT Application Developme
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=learningwithshaun&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learningwithshaun&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=learningwithshaun&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=learningwithshaun&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learningwithshaun&show_icons=true&theme=dark&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=learningwithshaun&theme=react-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=learningwithshaun&theme=dark" />
 </p>
 
 ---
