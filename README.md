@@ -70,16 +70,16 @@ I'm a passionate Full-Stack Developer and a third-year ICT Application Developme
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amandatheecoder&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandatheecoder&theme=dark&hide_border=false&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=learningwithshaun&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learningwithshaun&theme=dark&hide_border=false&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=amandatheecoder&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=learningwithshaun&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amandatheecoder&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=learningwithshaun&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -87,7 +87,7 @@ I'm a passionate Full-Stack Developer and a third-year ICT Application Developme
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amandatheecoder/amandatheecoder/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+  <img src="https://raw.githubusercontent.com/learningwithshaun/learningwithshaun/main/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </p>
 
 > ℹ️ This animated snake needs a one-time GitHub Actions setup on your profile repo — see the [snake action README](https://github.com/Platane/snk) for the ~5-line workflow file. Once added, it auto-generates on a schedule.
